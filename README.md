@@ -1,4 +1,4 @@
-#React test
+# React test
 
 This repository is my first React project.
 It's made by following this tutorial:  https://reactjs.org/tutorial/tutorial.html  
